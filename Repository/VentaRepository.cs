@@ -1,7 +1,6 @@
 ﻿using SistemaGestionWebApi.Models;
 using System.Data;
 using System.Data.SqlClient;
-using SistemaGestionWebApi.Models;
 
 namespace SistemaGestionWebApi.Repository
 {
